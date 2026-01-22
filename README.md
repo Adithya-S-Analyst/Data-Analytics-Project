@@ -1,7 +1,7 @@
 # Data Analytics Project
 
 ## Project Overview
-This project demonstrates data modeling and analysis using **SQL, Excel, and Power BI**.  
+This project demonstrates data modeling and analysis using **SQL, Excel, Power BI and Tableau**.  
 I worked on the **data modeling**, queries, and dashboards as part of a team project.
 
 ---
