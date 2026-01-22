@@ -10,6 +10,7 @@ I worked on the **data modeling**, queries, and dashboards as part of a team pro
 - SQL → for queries and data modeling
 - Excel → for data cleaning and analysis
 - Power BI → for dashboards and visualizations
+- Tableau → for dashboard and visualizations
 
 ---
 
